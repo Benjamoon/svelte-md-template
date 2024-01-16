@@ -43,7 +43,7 @@ export const siteConfig: SiteConfigType = {
 	links: [
 		{
 			title: "GitHub",
-			href: "https://google.com",
+			href: "https://github.com/Benjamoon/svelte-md-template",
 			icon: Icons.gitHub
 		}
 	],
@@ -55,7 +55,7 @@ export const siteConfig: SiteConfigType = {
 		},
 		{
 			title: "GitHub",
-			href: "https://github.com/huntabyte/shadcn-svelte",
+			href: "https://github.com/Benjamoon/svelte-md-template",
 			external: true
 		},
 	],
@@ -73,7 +73,7 @@ export const siteConfig: SiteConfigType = {
 			},
 			{
 				title: "GitHub",
-				href: "https://google.com",
+				href: "https://github.com/Benjamoon/svelte-md-template",
 				icon: Icons.gitHub,
 				newTab: true
 			}
